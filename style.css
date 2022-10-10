@@ -1,0 +1,22 @@
+html {
+  background-color: black;
+}
+
+body {
+  color: white;
+  /* background-color: black; */
+  display: grid;
+  /* justify-content: center; */
+  align-items: center;
+  height: 100vh;
+}
+
+/* span {
+  background-color: black !important;
+} */
+
+/* set div containing span to black */
+div {
+  color: white !important;
+  background: black !important;
+}
